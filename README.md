@@ -1,5 +1,5 @@
 # CodeAlpha Task Number - 3
-# ▶︎ Task - 2 : Music player using JavaScript :- 
+# ▶︎ Task - 3 : Music player using JavaScript :- 
 The architecture, which is divided into three buckets,
 will be used: CSS (Cascading Style Sheets (adding
 Create a personal portfolio showcasing your skills,
