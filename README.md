@@ -1,5 +1,7 @@
-# CodeAlpha Task Number - 3
+# CodeAlpha Task Number - 3 (Spotify Clone using JavaScript, CSS, HTML)
 # ▶︎ Task - 3 : Music player using JavaScript :- 
+(I have Built a Clone of Spotify Music which is exactly matches this Project's Requirements.)
+
 The architecture, which is divided into three buckets,
 will be used: CSS (Cascading Style Sheets (adding
 Create a personal portfolio showcasing your skills,
